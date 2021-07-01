@@ -1,0 +1,3 @@
+red=com.lmw.dubbo.spi.service.RedCar
+blackCar=com.lmw.dubbo.spi.service.BlackCar
+--com.lmw.dubbo.spi.service.CarWrapper
