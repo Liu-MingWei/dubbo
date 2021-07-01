@@ -15,6 +15,8 @@ public class Test {
         System.out.println(dubbo);
         System.out.println("+++++++++++++");*/
 
+        
+
 
         ExtensionLoader<Car> extensionLoader = ExtensionLoader.getExtensionLoader(Car.class);
 /*
